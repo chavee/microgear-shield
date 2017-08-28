@@ -1,0 +1,3 @@
+[submodule "external/microgear-esp8266-rtos"]
+	path = external/microgear-esp8266-rtos
+	url = https://github.com/netpieio/microgear-esp8266-rtos
